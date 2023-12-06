@@ -8,7 +8,7 @@ from tensorflow.keras.models import load_model
 
 app = Flask(__name__)
 
-# Load the model and resources during initialization
+# Load the model and resources during initialization 
 english_model = None
 english_tokenizer = None
 hindi_model = None
