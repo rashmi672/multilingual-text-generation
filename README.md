@@ -1,2 +1,4 @@
 # Multilingual-Text-Generation
 Generate text in different languages
+
+"Multilingual-Text-Generation" is a focused initiative with the primary goal of developing a versatile language model. Tailored to generate text in multiple languages, including Indian languages and English, the project employs advanced training techniques to ensure linguistic fluency and coherence in responses to diverse prompts. This multilingual language model is designed to perform various Natural Language Processing (NLP) tasks, leveraging its training knowledge to generate contextually relevant and coherent text. We're training this language tool to understand and respond well to different kinds of requests in various languages while keeping the talk smooth and sensible. The idea is to make it good at tasks like generating text in Hindi or English when you ask it to. Join us in making this language tool awesome and useful for everyone!
